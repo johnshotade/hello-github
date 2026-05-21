@@ -1,5 +1,5 @@
 def main():
-    print("Hello from Python 3.14 and GitHub!")
+    print("Hello from VS Code!")
 
 if __name__ == "__main__":
     main()
